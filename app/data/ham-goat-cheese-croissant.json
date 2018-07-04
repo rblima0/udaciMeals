@@ -1,0 +1,9 @@
+{
+    "id" : "ham-goat-cheese-croissant",
+    "name" : "Ham Goat Cheese Croissant",
+    "img" : "ham-goat-cheese-croissant.jpg",
+    "calories" : 670,
+    "rating" : 3.9,
+    "description" : "gaay bakri and cheese ke croissants!",
+    "reviews" : ["amazing", "loved it", "ham is bae!"]
+}

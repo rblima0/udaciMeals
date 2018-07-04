@@ -1,0 +1,9 @@
+{
+    "id" : "strawberry-pudding",
+    "name" : "Strawberry Pudding",
+    "img" : "strawberry-pudding.jpg",
+    "calories" : 280,
+    "rating" : 5,
+    "description" : "Strawberry ki pudding!",
+    "reviews" : ["amazing", "loved it", "strawberry-pudding is bae!"]
+}

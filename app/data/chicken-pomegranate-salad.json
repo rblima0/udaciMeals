@@ -1,0 +1,9 @@
+{
+	"id": "chicken-pomegranate-salad",
+	"name" : "Chicken Pomegranate Salad",
+	"img" : "chicken-pomegranate-salad.jpg",
+	"calories" : 430,
+	"rating" : 4.1,
+	"description" : "Chicken ki pomegranate wali salad.",
+	"reviews" : ["amazing", "loved it", "chicken is bae!"]
+}
