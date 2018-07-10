@@ -1,12 +1,14 @@
-# udaci-meals
+# UdaciMeals
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+Projeto de aprendizado da Versão 1 do Angular.
+
+Este projeto foi gerado com [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.16.0.
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+Rode `grunt` para construir e `grunt serve` para visualizar.
 
 ## Testing
 
-Running `grunt test` will run the unit tests with karma.
+Rodando `grunt test` irá executar os testes de unidade com karma.
